@@ -1,6 +1,5 @@
 
 ## 🌐 Socials:
-<h3 align="left">💬 How to reach me:</h3>
 <div>
    <a href="https://www.linkedin.com/in/youssef-ahmed-95b622244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
