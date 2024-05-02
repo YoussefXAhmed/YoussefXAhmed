@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student at **AAST**
 
-- 📫 How to reach me **yossefayyman@gmail.com**
+- 📫 You Can reach me here **yossefayyman@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com](linkedin.com)
 
