@@ -1,8 +1,6 @@
-
-## 🌐 Welcome !
-
-<img src="https://github.blog/wp-content/uploads/2023/09/AI-DarkMode-1.png?resize=1200%2C630">
 <h1 align="center">Hi 👋, I'm Youssef</h1>
+<img src="https://github.blog/wp-content/uploads/2023/09/AI-DarkMode-1.png?resize=1200%2C630">
+<h1 align="center"></h1>
 <h3 align="center">Frontend developer || Embedded Systems</h3>
 
 - 🔭 I’m currently student at **AAST**
