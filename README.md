@@ -1,9 +1,9 @@
 <h1 align="center">𝐻𝒾👋 𝐼'𝓂 𝒴𝑜𝓊𝓈𝓈𝑒𝒻</h1>
 <img src="https://github.blog/wp-content/uploads/2023/09/AI-DarkMode-1.png?resize=1200%2C630">
 <h1 align="center"></h1>
-<h3 align="center">Frontend developer || Embedded Systems</h3>
+<h3 align="center">𝐹𝓇𝑜𝓃𝓉𝑒𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 || 𝐸𝓂𝒷𝑒𝒹𝒹𝑒𝒹 𝒮𝓎𝓈𝓉𝑒𝓂𝓈</h3>
 
-- 🔭 I’m currently student at **AAST**
+- 🔭 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓈𝓉𝓊𝒹𝑒𝓃𝓉 𝒶𝓉 **𝒜𝒜𝒮𝒯**
 
 - 📫 You Can reach me here **yossefayyman@gmail.com**
 
